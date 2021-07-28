@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Stackbit makes headless work for marketers.
+    title: Stackbit gets you to market faster
     subtitle: Celebrating daily wins with YourGoal.
     actions:
       - label: Try for free
