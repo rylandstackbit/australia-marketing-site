@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Stackbit gets you to market faster
-    subtitle: Celebrating daily wins with YourGoal.
+    subtitle: This empowers your marketers to operate independently
     actions:
       - label: Try for free
         url: /pricing
